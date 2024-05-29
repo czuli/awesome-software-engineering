@@ -35,7 +35,7 @@ A curated list of awesome software engineering resources.
 
 | | | | |
 |-|-|-|-|
-| [:wrench: GitHub Actions](#github-actions) |  [:wrench: Jenkins](#jenkins) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
+| [:wrench: GitHub Actions](#github-actions) |  [:wrench: Jenkins](#jenkins) |   [:wrench: Buddy](#buddy) | [:wrench: ArgoCd](#argocd) | [:wrench: Argo Workflows](#argo-workflows) |
 
 ## Fundamentals
 
@@ -773,6 +773,14 @@ A curated list of awesome software engineering resources.
 5. [:scroll: \[eng\] Jenkins Interview Questions](https://medium.com/edureka/jenkins-interview-questions-7bb54bc8c679)
 6. [:scroll: \[eng\] jenkins.io - User handbook](https://www.jenkins.io/doc/book/getting-started/)
 7. [:film_strip: \[end\] CI CD Pipeline Using Jenkins](https://www.youtube.com/watch?v=m0a2CzgLNsc)
+
+## Buddy
+1. [:film_strip: \[eng\] Buddy - Building and deploying a React app](https://www.youtube.com/watch?v=9HT16BadNFA)
+2. [:scroll: \[eng\] Top 5 CI/CD Best Practices for DevOps Teams](https://buddy.works/guides/ci-cd-best-practices-devops)
+3. [:scroll: \[eng\] CI/CD Trend Report](https://buddy.works/ci-cd-devops-trends)
+4. [:scroll: \[eng\] Jenkins vs Buddy](https://buddy.works/compare/jenkins-alternative)
+5. [:scroll: \[eng\] Introduction to Astro](https://buddy.works/guides/introduction-to-astro)
+6. [:scroll: \[eng\] Master Pipelines for Effortless CI/CD Automation](https://buddy.works/docs/pipelines/introduction)
 
 ## ArgoCd
 1. [:film_strip: \[eng\] Argo CD - Applying GitOps Principles To Manage A Production Environment In Kubernetes](https://youtu.be/vpWQeoaiRM4)
